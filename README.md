@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://github.com/iozsaygi/underlands/blob/main/media/showcase.giff"/></a>
+  <a href="#"><img src="https://github.com/iozsaygi/underlands/blob/main/media/showcase.gif"/></a>
 </p>
 
 ## About
