@@ -7,8 +7,8 @@ Underlands is a 2D Top-Down game which has been created during Ludum Dare 47 eve
 Used the custom game engine which can be found in [ripsight](https://github.com/iozsaygi/ripsight).
 
 ## Links
-  * [Ludum Dare 47 event page](https://ldjam.com/events/ludum-dare/47/underlands)
-  * [itch.io page](https://iozsaygi.itch.io/underlands)
+  * [Ludum Dare](https://ldjam.com/events/ludum-dare/47/underlands)
+  * [itch.io](https://iozsaygi.itch.io/underlands)
   
 ## License
 [MIT License](https://github.com/iozsaygi/underlands/blob/main/LICENSE)
