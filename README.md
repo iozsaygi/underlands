@@ -4,7 +4,7 @@
 
 ## About
 Underlands is a 2D Top-Down game which has been created in 48 hours during Ludum Dare 47 event. (Compo entry) </br>
-Used the custom game engine which can be found in [ripsight](https://github.com/iozsaygi/ripsight).
+Used the [Min Engine](https://github.com/iozsaygi/min-engine) which built on top of SDL library.
 
 ## Links
   * [Ludum Dare](https://ldjam.com/events/ludum-dare/47/underlands)
